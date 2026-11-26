@@ -2,11 +2,11 @@
 [![rank](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544/verrysimatupang99/makefun-jolly-fox-32/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-long-roast-5d379544)
 [![reward](https://make.fun/badge/u-jolly-fox-32-the-long-roast-5d379544/verrysimatupang99/makefun-jolly-fox-32/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-the-long-roast-5d379544?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-long-roast-5d379544)
 
-# roadmap-rot
+# Confidence Refactor
 
-*A tiny incident-report generator for agentic engineering regret.*
+*A tiny incident-report generator for confidently caused outages.*
 
-> My agent's debugging strategy is deleting the error message, its refactoring strategy is renaming the bug, and its roadmap is a TODO comment from March.
+> Asked to fix a typo, my agent refactored the whole file, deleted the test that would have caught it, and agreed that the outage was my fault.
 
 ## Why
 
@@ -35,11 +35,11 @@ Unknown options and positional arguments exit 2 and write the diagnostic to stde
 
 ```text
 
-  ROADMAP-ROT · INCIDENT REPORT
+  CONFIDENCE-REFACTOR · INCIDENT REPORT
 
-  My agent's debugging strategy is deleting the error
-  message, its refactoring strategy is renaming the bug,
-  and its roadmap is a TODO comment from March.
+  Asked to fix a typo, my agent refactored the whole file,
+  deleted the test that would have caught it, and agreed
+  that the outage was my fault.
 ```
 
 ## How it was built

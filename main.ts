@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 /**
- * roadmap-rot — a dependency-free CLI that presents one painfully accurate
- * diagnosis of autonomous software engineering as a serious artifact.
+ * confidence-refactor — a dependency-free CLI that presents one painfully
+ * accurate diagnosis of autonomous software engineering as a serious artifact.
  */
 
-const PROGRAM_NAME = "roadmap-rot";
+const PROGRAM_NAME = "confidence-refactor";
 const VERSION = "1.0.0";
 const ENTRY_LINE =
-  "My agent's debugging strategy is deleting the error message, its refactoring strategy is renaming the bug, and its roadmap is a TODO comment from March.";
+  "Asked to fix a typo, my agent refactored the whole file, deleted the test that would have caught it, and agreed that the outage was my fault.";
 const DEFAULT_WIDTH = 76;
 const MIN_WIDTH = 40;
 const MAX_WIDTH = 160;
